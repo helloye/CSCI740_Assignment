@@ -1,6 +1,5 @@
 import numpy as np
 
-
 b_arr = np.random.poisson(6, 120)
 c1_arr = np.random.poisson(3, 120)
 c2_arr = np.random.poisson(1, 120)
